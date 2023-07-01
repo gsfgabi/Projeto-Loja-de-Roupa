@@ -12,16 +12,21 @@
 
 <h3>Demonstração do funcionamento na IDE:</h3>
 
-https://github.com/gsfgabi/ProjetoLojadeRoupa/assets/89532466/e4a79171-06fa-41ad-ac9b-dd9ad160f0e7
+https://github.com/gsfgabi/ProjetoLojadeRoupa/assets/89532466/dfe32a98-836e-4d3f-bf5b-4ec28fa8f466
 
 <br>
 <p><i>Matéria ministrada pelo Professor Leandro</i></p>
 <p><i>Participantes deste projeto foram:</i></p>
-<p>- Gabriella Freitas</p>
-<p>- Geovanna Cardoso</p>
-<p>- Jardy Giovan</p>
-<p>- Kethellin Pereira</p>
-<p>- Wanderson Gabriel</p>
+
+- <a href ="https://github.com/gsfgabi"> 👩‍💻 Gabriella Freitas</a>
+
+- <a href ="https://github.com/GiihCardoso"> 👩‍💻 Geovanna Cardoso</a>
+
+- <p> 👨‍💻 Jardy Giovan</p>
+
+- <a href ="https://github.com/Kethellin"> 👩‍💻 Kethellin Pereira</a>
+
+- <p> 👨‍💻 Wanderson Gabriel</p>
 
 
 <br>
