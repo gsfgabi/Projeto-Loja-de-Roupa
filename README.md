@@ -26,7 +26,7 @@ https://github.com/gsfgabi/ProjetoLojadeRoupa/assets/89532466/dfe32a98-836e-4d3f
 
 - <a href ="https://github.com/Kethellin"> 👩‍💻 Kethellin Pereira</a>
 
-- <p> 👨‍💻 Wanderson Gabriel</p>
+- <a href ="https://github.com/WandersonGabri"> 👨‍💻 Wanderson Gabriel</a>                              
 
 
 <br>
